@@ -96,3 +96,4 @@ This project is meant for **educational purposes**. Feel free to fork, improve o
 
 Made with ❤️ by Muhammad Hamid Raza  
 If you'd like to connect, feel free to reach out on GitHub!
+linkedin  : http://www.linkedin.com/in/muhammad-hamid-raza-082aa62ba
