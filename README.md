@@ -65,15 +65,15 @@ The dataset contains fictional data of students with their scores in the followi
 
 | File Name              | Description                      |
 |------------------------|----------------------------------|
-| `analysis_report.ipynb` | Jupyter Notebook with all code  |
-| `student_scores.csv`    | Sample dataset of student scores |
+| `Students_Marksheet.ipynb` | Jupyter Notebook with all code  |
+| `students_full_marksheet.csv`    | Sample dataset of student scores |
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository or download the files.
-2. Open `analysis_report.ipynb` in **Jupyter Notebook**.
+2. Open `Students_Marksheet.ipynb` in **Jupyter Notebook**.
 3. Run the cells step-by-step to see analysis and visualizations.
 
 ---
@@ -94,5 +94,5 @@ This project is meant for **educational purposes**. Feel free to fork, improve o
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by Muhammad Hamid Raza  
 If you'd like to connect, feel free to reach out on GitHub!
